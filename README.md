@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 😄 Pronouns: he/him
-- 🔭 I'm currently working on a coffee related app with Flutter and Golang
-- 🌱 At the moment I'm learning backend development with Golang or Java Spring
+- 🔭 I'm currently working on a coffee related app with Flutter and Java
+- 🌱 At the moment I'm learning backend development with Java Spring
+- 💬 Ask me about coffee, you will regret it
 - 📫 How to reach me: [Twitter](https://twitter.com/__psittacus__) | [Mail](mailto:ps1ttacus@web.de)
 - ⚡ Fun fact: Sometimes I write blog posts on [ps1ttacus.de](https://ps1ttacus.de)
 <!--
