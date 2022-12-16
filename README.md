@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 Pronouns: he/him
-- 🔭 I'm currently working on a coffee related app with Flutter and Java
+- 🔭 I'm currently working on a coffee related app with Flutter and Golang
 - 🌱 At the moment I'm learning backend development with Java Spring
 - 💬 Ask me about coffee, you will regret it
 - 📫 How to reach me: [Twitter](https://twitter.com/__psittacus__) | [Mail](mailto:ps1ttacus@web.de)
