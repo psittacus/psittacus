@@ -4,7 +4,7 @@
 - 🔭 Flutter and Golang by night
 - 💬 Ask me about [Coffee](https://github.com/BrewedApp), [BJJ](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) or [Semantic Web](https://de.wikipedia.org/wiki/Semantic_Web)
 - 📫 How to reach me: [Fediverse](https://social.linux.pizza/@psittacus) | [Mail](mailto:ps1ttacus@web.de)
-- ⚡ Blog posts (consitently inconsistent): [ps1ttacus.de](https://ps1ttacus.de)
+- ⚡ WWW: [ps1ttacus.de](https://ps1ttacus.de)
 <!--
 **psittacus/psittacus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
